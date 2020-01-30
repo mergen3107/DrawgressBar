@@ -35,7 +35,7 @@
 #########
 # USAGE #
 ######### 
-	# 1) Open a book, where you wish to have progress bar.
+	# 1) Open a book, where you wish to have progress bar.\
 	# 2) Edit DrawgressBar.sh: Input the book length, minimum location steps, chapters and subchapter locations into the "PART 1" down below.
 	# 	 The units are preferably "locations" (they exist on almost every book), or "pages" if you are lucky to have such.
 	#	 (and also change the screen dimensions)
