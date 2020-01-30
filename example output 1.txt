@@ -1,0 +1,52 @@
+box_width 761
+box_height 15
+locstart 163
+locend 924
+off_y 0
+v_locstep 11
+locstep px 0.20497061704211558
+v_locmax 40840
+163.37 163.73 393.54 622.60 917.18 917.93 923.25 923.44
+163.78 179.55 190.97 204.87 221.75 248.08 272.19 310.00 335.51 362.19 393.59 419.70 448.62 473.01 495.39 518.57 541.30 566.49 582.50 595.26 622.66 655.38 694.60 724.17 751.88 786.00 809.22 857.14 892.17 905.01
+locnow_percent 5680
+locnow_px 595
+update_to_display: update_mode=PARTIAL, wave_mode=2 inverted=0
+update_to_display: update_mode=PARTIAL, wave_mode=2 inverted=0
+update_to_display: update_mode=PARTIAL, wave_mode=2 inverted=0
+update_to_display: update_mode=PARTIAL, wave_mode=2 inverted=0
+update_to_display: update_mode=PARTIAL, wave_mode=2 inverted=0
+update_to_display: update_mode=PARTIAL, wave_mode=2 inverted=0
+update_to_display: update_mode=PARTIAL, wave_mode=2 inverted=0
+update_to_display: update_mode=PARTIAL, wave_mode=2 inverted=0
+update_to_display: update_mode=PARTIAL, wave_mode=2 inverted=0
+update_to_display: update_mode=PARTIAL, wave_mode=2 inverted=0
+update_to_display: update_mode=PARTIAL, wave_mode=2 inverted=0
+update_to_display: update_mode=PARTIAL, wave_mode=2 inverted=0
+update_to_display: update_mode=PARTIAL, wave_mode=2 inverted=0
+update_to_display: update_mode=PARTIAL, wave_mode=2 inverted=0
+update_to_display: update_mode=PARTIAL, wave_mode=2 inverted=0
+update_to_display: update_mode=PARTIAL, wave_mode=2 inverted=0
+update_to_display: update_mode=PARTIAL, wave_mode=2 inverted=0
+update_to_display: update_mode=PARTIAL, wave_mode=2 inverted=0
+update_to_display: update_mode=PARTIAL, wave_mode=2 inverted=0
+update_to_display: update_mode=PARTIAL, wave_mode=2 inverted=0
+update_to_display: update_mode=PARTIAL, wave_mode=2 inverted=0
+update_to_display: update_mode=PARTIAL, wave_mode=2 inverted=0
+update_to_display: update_mode=PARTIAL, wave_mode=2 inverted=0
+update_to_display: update_mode=PARTIAL, wave_mode=2 inverted=0
+update_to_display: update_mode=PARTIAL, wave_mode=2 inverted=0
+update_to_display: update_mode=PARTIAL, wave_mode=2 inverted=0
+update_to_display: update_mode=PARTIAL, wave_mode=2 inverted=0
+update_to_display: update_mode=PARTIAL, wave_mode=2 inverted=0
+update_to_display: update_mode=PARTIAL, wave_mode=2 inverted=0
+update_to_display: update_mode=PARTIAL, wave_mode=2 inverted=0
+update_to_display: update_mode=PARTIAL, wave_mode=2 inverted=0
+update_to_display: update_mode=PARTIAL, wave_mode=2 inverted=0
+update_to_display: update_mode=PARTIAL, wave_mode=2 inverted=0
+update_to_display: update_mode=PARTIAL, wave_mode=2 inverted=0
+update_to_display: update_mode=PARTIAL, wave_mode=2 inverted=0
+update_to_display: update_mode=PARTIAL, wave_mode=2 inverted=0
+update_to_display: update_mode=PARTIAL, wave_mode=2 inverted=0
+update_to_display: update_mode=PARTIAL, wave_mode=2 inverted=0
+update_to_display: update_mode=PARTIAL, wave_mode=2 inverted=0
+update_to_display: update_mode=PARTIAL, wave_mode=2 inverted=0

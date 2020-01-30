@@ -1,0 +1,54 @@
+{
+	"comment001": "DrawgressBar v 1.87",
+	"comment002": "by @mergen3107",
+	"comment003": "To draw an old-school progress bar in book during reading",
+	"comment004": "",
+	"items": [
+	{
+		"name": "DrawgressBar",
+		"priority": -998,
+		"items": [
+		{
+			"name": "Run DrawgressBar",
+			"priority": -2,
+			"exitmenu": false,
+			"date": true,
+			"checked": true,
+			"refresh": false,
+			"action": "../bin/DrawgressBar.sh",
+			"params": ""
+		},
+		{
+			"name": "(reserved)",
+			"priority": -1,
+			"exitmenu": false,
+			"date": true,
+			"checked": true,
+			"refresh": false,
+			"action": "",
+			"params": ""
+		},
+		{
+			"name": "(reserved)",
+			"priority": -1,
+			"exitmenu": false,
+			"date": true,
+			"checked": true,
+			"refresh": false,
+			"action": "",
+			"params": ""
+		},
+		{
+			"name": "(reserved)",
+			"priority": -1,
+			"exitmenu": false,
+			"date": true,
+			"checked": true,
+			"refresh": false,
+			"action": "",
+			"params": ""
+		}
+		]
+	}
+	]
+}
