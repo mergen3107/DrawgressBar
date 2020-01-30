@@ -11,7 +11,7 @@
 	# Please use, distribute and modify with respect. For personal use only!\
 	# All sources are freely available.\
 	# (A proper open-source licensing is yet to come when I properly read about it, sorry for now :D)\
-	# Device(s) used for development and testing: Kindle PW3 (5.9.7); ...\
+	# Device(s) used for development and testing: Kindle PW3 (5.9.7); ...
 
 
 ###########
@@ -22,14 +22,14 @@
 	# 3) "bash2" is a renamed "bash 4.2" binary compiled for Kindle by @fbdev (https://www.mobileread.com/forums/showthread.php?t=145738), \
 	# from GNU sources (http://ftp.gnu.org/gnu/bash/)\
 	# 4) eips commands were revealed and explained by @geekmaster (https://www.mobileread.com/forums/showthread.php?t=177564)\
-	# 5) eips colors discovered by @EternalCyclist (https://www.mobileread.com/forums/showthread.php?t=195980)\
+	# 5) eips colors discovered by @EternalCyclist (https://www.mobileread.com/forums/showthread.php?t=195980)
 
 
 ################
 # INSTALLATION #
 ################
 	# As usual for a KUAL-extension: copy the DrawgressBar extension directory to /mnt/us/extensions/ folder (accessible from visible USB storage)\
-	# Required packages to install: Python3 by NiJule (https://www.mobileread.com/forums/showthread.php?t=225030), ...\
+	# Required packages to install: Python3 by NiJule (https://www.mobileread.com/forums/showthread.php?t=225030), ...
 
 
 #########
@@ -41,4 +41,4 @@
 	#	 (and also change the screen dimensions)\
 	# 3) Close the book, run DrawgressBar from KUAL.\
 	# 4) Open the book to start reading. The progress bar /should/ appear at the bottom of the screen.\
-	# 5) (Optionally, change the progress bar dimensions in the beginning of "PART 2")\
+	# 5) (Optionally, change the progress bar dimensions in the beginning of "PART 2")
