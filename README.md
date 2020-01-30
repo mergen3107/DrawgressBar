@@ -5,7 +5,7 @@
 ############# 
 	# DrawgressBar, v 1.87 (01/29/2020)\
 	# Author: @mergen3107 on 4pda.ru and mobileread.com forums\
-	# Discussion thread: https://www.mobileread.com/forums/showthread.php?t=314423\
+	# Discussion thread: https://www.mobileread.com/forums/showthread.php?t=314423 \
 	# A simple and straight-forward KUAL extension to draw progress bar with current progress, chapter marks and subchapter marks during reading.\
 	# All pieces of code used in this project are obtained through open-source projects (cited where possible), by a search, or common knowledge.\
 	# Please use, distribute and modify with respect. For personal use only!\
